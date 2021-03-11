@@ -44,7 +44,7 @@
   <br />
   <br />
 
-  <img align="center" alt="l3nnartt's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3nnartt&layout=compact&theme=dark" />
+  <img align="center" alt="l3nnartt's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3nnartt&layout=compact&theme=dark&hide_border=true" />
 
 </details>
 
