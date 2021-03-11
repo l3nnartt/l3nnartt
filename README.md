@@ -48,12 +48,6 @@
   <br />
 
   <img align="center" alt="l3nnartt's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3nnartt&layout=compact&theme=dark&hide_border=true" />
-
-  <br />
-  <br />
-
-  <img align="center" alt="l3nnartt's Top Langs" src="https://github-readme-stats.vercel.app/api/wakatime?username=l3nnartt&theme=dark&hide_border=true" />
-
 </details>
 
 [website]: https://lennartloesche.de
