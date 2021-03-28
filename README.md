@@ -26,10 +26,8 @@
 <br />
 <br />
 
----
+## Github Stats:
 
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=l3nnartt&show_icons=true&hide_border=true&theme=dark" />
-
 <br />
-
 <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3nnartt&layout=compact&theme=dark&hide_border=true" />
