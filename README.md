@@ -9,6 +9,7 @@
 * [timolia-stats](https://karmatop.de/): Discord Bot + Website for Timolia Stats and the Karmatop
 * [scar-discordbot](https://github.com/l3nnartt/scar-discord-bot): Discord Bot for the SCAR Clan
 
+
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -26,8 +27,8 @@
 <br />
 <br />
 
+
 ## Github Stats:
 
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=l3nnartt&show_icons=true&hide_border=true&theme=dark" />
-<br />
 <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3nnartt&layout=compact&theme=dark&hide_border=true" />
