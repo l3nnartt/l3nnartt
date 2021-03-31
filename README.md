@@ -2,12 +2,13 @@
 
 ---
 
-## Privat Projects
+## Projects
 
-* [lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de): Personal Website
-* [community-discord.de](https://github.com/l3nnartt/community-discord.de): Community-Discord
-* [timolia-stats](https://karmatop.de/): Discord Bot + Website for Timolia Stats and the Karmatop
-* [scar-discordbot](https://github.com/l3nnartt/scar-discord-bot): Discord Bot for the SCAR Clan
+* [lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de): Own website
+* [community-discord.de](https://github.com/l3nnartt/community-discord.de): Discord Server List Site
+* [timolia-stats](https://karmatop.de/): Discord Bot + Website for Timolia Stats and the Karmatop list
+* [scar-discordbot](https://github.com/l3nnartt/scar-discord-bot): Discord-Bot for the SCAR Clan
+* [discord-rpc](https://github.com/l3nnartt/custom-rpc): Custom DiscordRPC maked with node
 
 
 ## Languages and Tools:
@@ -23,9 +24,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="LUA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-
-<br />
-<br />
 
 
 ## Github Stats:
