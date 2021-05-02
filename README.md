@@ -5,10 +5,9 @@
 ## Projects
 
 * [lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de): my website
-* [community-discord.de](https://github.com/l3nnartt/community-discord.de): Discord Server List website
+* [community-discord.de](https://github.com/l3nnartt/community-discord.de): Discord Server List Website
 * [timolia-stats](https://karmatop.de/): Discord Bot + Website for Timolia Stats and the Karmatop list
 * [scar-discordbot](https://github.com/l3nnartt/scar-discord-bot): Discord-Bot for the SCAR Clan
-* [discord-rpc](https://github.com/l3nnartt/custom-rpc): Custom DiscordRPC maked with node
 * [timolia-addon](https://github.com/l3nnartt/timolia-addon): Labymod Addon for Timolia.de
 
 ## Languages and Tools:
