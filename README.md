@@ -29,5 +29,5 @@
 
 ## Github Stats:
 
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=l3nnartt&show_icons=true&theme=dark&hide_border=true&hide_title=true&include_all_commits=true&cache_seconds=1800" />
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=l3nnartt&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_title=true" />
 <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3nnartt&layout=compact&theme=dark&hide_border=true&hide_title=true" />
