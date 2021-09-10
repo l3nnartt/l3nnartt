@@ -6,8 +6,7 @@
 
 * [lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de): My Website
 * [timolia-stats](https://karmatop.de/): Discord Bot + Website for Timolia Stats and the Karmatop list
-* [scar-discordbot](https://github.com/l3nnartt/scar-discord-bot): Discord-Bot for the SCAR Clan
-* [bugfixes](https://github.com/l3nnartt/bugfixes): Labymod Addon which enable all Bugfixes on big Servers
+* [bugfixes](https://github.com/l3nnartt/bugfixes): Labymod Addon which enable all Bugfixes
 * [labyaddons.de](https://labyaddons.de/): LabyMod Addon list for official and inofficial addons
 * [timolia-addon-1.8](https://github.com/l3nnartt/timolia-addon-1.8), [timolia-addon-1.12](https://github.com/l3nnartt/timolia-addon-1.12), [timolia-addon-1.16](https://github.com/l3nnartt/timolia-addon-1.16): Labymod Addon for Timolia.de
 
