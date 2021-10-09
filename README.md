@@ -2,6 +2,14 @@
 
 ---
 
+<div align="center">
+  <a href="https://discord.com/users/398101340322136075" >
+    <img src="https://lanyard-profile-readme.vercel.app/api/398101340322136075"  />
+  </a>
+</div>
+
+---
+
 ## Projects
 
 * [lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de): My Website
