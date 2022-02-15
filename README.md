@@ -15,7 +15,8 @@
 * [karmatop.de](https://karmatop.de/): Tracking Stats from Timolia
 * [community-discord.de](https://community-discord.de/): Just a nice Domain
 * [timolia.de](https://timolia.de/): Developer [@Timolia](https://howto.timolia.de/team/members/#l3nnart_)
-* [bugfixes](https://github.com/l3nnartt/bugfixes): Labymod Addon which enable all LabyMod bugfixes and features like "Classic PvP"
+* [LouderVoiceChat-1.8](https://github.com/l3nnartt/LouderVoiceChat-1.8): LabyMod Addon allows you to adjust the Volume of Players up to 500% in the LabyMod VoiceChat.
+* [Bugfixes-1.8](https://github.com/l3nnartt/Bugfixes-1.8), [Bugfixes-1.16](https://github.com/l3nnartt/Bugfixes-1.16): Labymod Addon which enable all LabyMod bugfixes and features like "Classic PvP"
 * [timolia-addon-1.8](https://github.com/l3nnartt/timolia-addon-1.8), [timolia-addon-1.12](https://github.com/l3nnartt/timolia-addon-1.12), [timolia-addon-1.16](https://github.com/l3nnartt/timolia-addon-1.16): LabyMod addons for Timolia.de
 
 ## Github Stats:
