@@ -20,6 +20,7 @@
 * [timolia-addon-1.8](https://github.com/l3nnartt/timolia-addon-1.8), [timolia-addon-1.12](https://github.com/l3nnartt/timolia-addon-1.12), [timolia-addon-1.16](https://github.com/l3nnartt/timolia-addon-1.16): LabyMod addons for Timolia.de
 
 ## Github Stats:
-
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=l3nnartt&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_title=true" />
-<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3nnartt&layout=compact&theme=dark&langs_count=10&exclude_repo=fivem-underground" />
+<div align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=l3nnartt&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_title=true" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3nnartt&layout=compact&theme=dark&langs_count=10&exclude_repo=fivem-underground" />
+</div>
