@@ -10,9 +10,7 @@
 
 ## Projects
 
-* [lennartloesche.de](https://lennartloesche.de): My Website
 * [labyaddons.de](https://labyaddons.de/): Website for with a list of all offical LabyMod addons
-* [karmatop.de](https://karmatop.de/): Tracking Stats from Timolia
 * [timolia.de](https://timolia.de/): Developer [@Timolia](https://howto.timolia.de/team/members/#l3nnart_)
 * [LouderVoiceChat-1.8](https://github.com/l3nnartt/LouderVoiceChat-1.8): LabyMod Addon that allows you to adjust the Volume of Players up to 500% in the LabyMod VoiceChat
 * [PermaVoice-1.8](https://github.com/l3nnartt/PermaVoice-1.8): LabyMod Addon that allows you to talk in the LabyMod VoiceChat continuously
@@ -23,5 +21,3 @@
 ## Github Stats:
 <div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=l3nnartt&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_title=true" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3nnartt&layout=compact&theme=dark&langs_count=10&exclude_repo=fivem-underground" />
-</div>
