@@ -2,12 +2,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://discord.com/users/398101340322136075" >
-    <img src="https://lanyard-profile-readme.vercel.app/api/398101340322136075"  />
-  </a>
-</div>
-
 ## Projects
 
 * [labyaddons.de](https://labyaddons.de/): Website for with a list of all offical LabyMod addons
