@@ -2,11 +2,12 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=l3nnartt)
+
 ## Skills
 <a href="#">
   <img alt="Skill Icons" src="https://skillicons.dev/icons?i=nodejs,js,html,css,java,kotlin" />
 </a>
-
 
 ## Tools & Software
 <a href="#">
