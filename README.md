@@ -3,6 +3,7 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=l3nnartt)
+![](https://hit.yhype.me/github/profile?user_id=69513317)
 
 ## Skills
 <a href="#">
